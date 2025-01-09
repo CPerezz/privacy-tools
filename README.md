@@ -1,6 +1,10 @@
 # privacy-tools
 A collection of interesting and useful privacy tools I've found during my life and thought are worth using/looking at.
 
+Use at your own risk.
+
+I don't get anything for listing this. This is personal taste only and opinionated on what I like, and how well things go with my style and needs.
+
 ## Table of Contents
 * [Privacy-related-sites](#privacy-related-sites)
 * [Browsers](#browsers)
@@ -15,4 +19,12 @@ A collection of interesting and useful privacy tools I've found during my life a
 
 ## Password-managers
 - [pass](https://github.com/mihaigalos/pass): A really nice git-based password manager based on Yubikey as source of encryption (backed by [rage](https://github.com/str4d/rage)).
+- [ProtonPass](https://proton.me/pass): An incredibly good password manager really nicely integrated with the rest of Proton's suite.
+It natively supports:
+- Logins
+- Email aliases with SimpleLogin (only with ProtonUnlimited).
+- Notes
+- Identities
+- Cards
+It also includes vault-sepparation for different profiles (a la Firefox). As well as support and sync between devices, a really good UI/UX, double password and encryption for all of the contents E2E.
 
