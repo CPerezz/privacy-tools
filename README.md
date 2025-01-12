@@ -9,6 +9,7 @@ I don't get anything for listing this. This is personal taste only and opinionat
 * [Privacy-related-sites](#privacy-related-sites)
 * [Browsers](#browsers)
 * [Password-managers](#password-managers)
+* [Backup-tools](#backup-tools)
 
 ## Privacy-related-sites
 - [PrivacyGuides](https://privacyguides.org): **Onion supported too!**. A webpage of reference for learning, or asking about any privacy topic. They have guides on tooling recommendations as well as a really nice forum. **HIGHLY RECOMMENDED**.
@@ -28,3 +29,6 @@ It natively supports:
 - Cards
 It also includes vault-sepparation for different profiles (a la Firefox). As well as support and sync between devices, a really good UI/UX, double password and encryption for all of the contents E2E.
 
+## Backup-tools
+- [Kopia](https://kopia.io/): A fast, incremental, encrypted and compressed backup-creator/manager tool completelly FOSS. Integrates with all the major Cloud Storage providers. 
+Also can work with network-connected machines, local storage etc...
