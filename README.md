@@ -10,6 +10,7 @@ I don't get anything for listing this. This is personal taste only and opinionat
 * [Browsers](#browsers)
 * [Password-managers](#password-managers)
 * [Backup-tools](#backup-tools)
+* [Firewalls](#firewalls)
 
 ## Privacy-related-sites
 - [PrivacyGuides](https://privacyguides.org): **Onion supported too!**. A webpage of reference for learning, or asking about any privacy topic. They have guides on tooling recommendations as well as a really nice forum. **HIGHLY RECOMMENDED**.
@@ -32,3 +33,7 @@ It also includes vault-sepparation for different profiles (a la Firefox). As wel
 ## Backup-tools
 - [Kopia](https://kopia.io/): A fast, incremental, encrypted and compressed backup-creator/manager tool completelly FOSS. Integrates with all the major Cloud Storage providers. 
 Also can work with network-connected machines, local storage etc...
+
+## Firewalls
+- [Portmaster](https://safing.io): A really nice firewall with high level of detail on all ongoing connections and an extremely curated UI that allows to monitor and control all network activity.
+- [RethinkDNS](https://rethinkdns.com/): A really good firewall based on DNS+VPN setup which allows to filter network activity and block trackers. **ONLY FOR ANDROID**.
