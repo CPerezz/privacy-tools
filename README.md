@@ -11,6 +11,7 @@ I don't get anything for listing this. This is personal taste only and opinionat
 * [Password-managers](#password-managers)
 * [Backup-tools](#backup-tools)
 * [Firewalls](#firewalls)
+* [Apps](#apps)
 
 ## Privacy-related-sites
 - [PrivacyGuides](https://privacyguides.org): **Onion supported too!**. A webpage of reference for learning, or asking about any privacy topic. They have guides on tooling recommendations as well as a really nice forum. **HIGHLY RECOMMENDED**.
@@ -37,3 +38,7 @@ Also can work with network-connected machines, local storage etc...
 ## Firewalls
 - [Portmaster](https://safing.io): A really nice firewall with high level of detail on all ongoing connections and an extremely curated UI that allows to monitor and control all network activity.
 - [RethinkDNS](https://rethinkdns.com/): A really good firewall based on DNS+VPN setup which allows to filter network activity and block trackers. **ONLY FOR ANDROID**.
+
+## Apps
+- [Osmand](https://osmand.net/): OsmAnd (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) database. It has plenty of features. But the most important one is that you can download all maps and navigate then without **ANY INTERNET CONEECTION** just relying on GPS.
+Thus, avoiding tracking and sharing of your travel and common destinations.
