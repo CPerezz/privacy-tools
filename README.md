@@ -18,7 +18,7 @@ I don't get anything for listing this. This is personal taste only and opinionat
 - [Monerica](https://monerica.com/): A webpage which aims to create a circular economy arround the usage of Monero. You can find businesses, education, finance, wallets, web-hosting services, freelancers etc..
 - [Coincards](https://coincards.com/): A webpage that allows to purchase lots of different gift cards for major websites with major Cyrptocurrencies without any KYC requirement nor similar. (Sadly, no ZCash is accepted. So unless using Monero, be careful on linking your ETH or BTC account for example!)
 - [paywithz.cash](https://paywithz.cash/): A webpage with a great listing of communities, places, bussiness and other entities that accept ZEC(ZCash) as a payment method.
-
+- [Njal](https://njal.la/): A website to get domains, servers and VPN services that shields your personal information, built by the founder of Pirate Bay
 ## Browsers
 
 ## Password-managers
