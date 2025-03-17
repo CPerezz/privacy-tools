@@ -6,12 +6,15 @@ Use at your own risk.
 I don't get anything for listing this. This is personal taste only and opinionated on what I like, and how well things go with my style and needs.
 
 ## Table of Contents
-* [Privacy-related-sites](#privacy-related-sites)
-* [Browsers](#browsers)
-* [Password-managers](#password-managers)
-* [Backup-tools](#backup-tools)
-* [Firewalls](#firewalls)
-* [Apps](#apps)
+- [privacy-tools](#privacy-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Privacy-related-sites](#privacy-related-sites)
+  - [Browsers](#browsers)
+  - [Password-managers](#password-managers)
+  - [Backup-tools](#backup-tools)
+  - [Firewalls](#firewalls)
+  - [Apps](#apps)
+  - [Phone-Connection](#phone-connection)
 
 ## Privacy-related-sites
 - [PrivacyGuides](https://privacyguides.org): **Onion supported too!**. A webpage of reference for learning, or asking about any privacy topic. They have guides on tooling recommendations as well as a really nice forum. **HIGHLY RECOMMENDED**.
@@ -43,3 +46,7 @@ Also can work with network-connected machines, local storage etc...
 ## Apps
 - [Osmand](https://osmand.net/): OsmAnd (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) database. It has plenty of features. But the most important one is that you can download all maps and navigate then without **ANY INTERNET CONEECTION** just relying on GPS.
 Thus, avoiding tracking and sharing of your travel and common destinations.
+
+## Phone-Connection
+- [SilentLink](https://silent.link/): Get an eSIM without KYC and paid by crypto with prices as low as 1.50$/GB. 
+Works on 160+ countries. And has available options such as No Identity/No number.
